@@ -28,6 +28,3 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 # Codeigniter User Guide
 user_guide
-
-# Codeigniter Core System
-system
